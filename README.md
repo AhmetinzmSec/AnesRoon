@@ -12,8 +12,8 @@ ya da
 
 Eğer normal kullanıcıda iseniz
 
-```sudo sh anesroon```
+```$ sudo sh anesroon```
 
 ya da
 
-```sudo ./anesroon```
+```$ sudo ./anesroon```
